@@ -6,7 +6,7 @@ type Props = {
   handleChange: void
 }
 
-const todoCard: Component<Props> = (props) => {
+const TodoCard: Component<Props> = (props) => {
   return (
     <div>
       <input
@@ -25,4 +25,4 @@ const todoCard: Component<Props> = (props) => {
   )
 }
 
-export default todoCard
+export default TodoCard;
