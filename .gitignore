@@ -8,7 +8,7 @@ netlify
 
 # dependencies
 /node_modules
-./docs/node_modules
+./solid-start-book/node_modules
 
 # IDEs and editors
 /.idea
